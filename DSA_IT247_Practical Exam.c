@@ -1,7 +1,7 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<sys/time.h>
-#include<math.h>
+//#include "stdio.h"
+//#include "stdlib.h"
+//#include "sys/time.h"
+//#include "math.h"
 //#include<conio.h>
 
 /*int fdr(char chI)
@@ -67,7 +67,7 @@ void main()
     printf("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n");
         printf("***** Data Structure & Algorithms PRACTICAL EXAM OF Dec-May  *****\n");
             printf("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n");
-            printf("\t\t\t\t\tExaminer : Prof. Amit Parmar\n\n\n\n");
+            printf("\t\t\t\t\tExaminer : Prof. Amit Parmar  (Assitant Professor)\n\n\n\n");
     printf("************ Enter the details, which you will be ask to enter. **************\n\n");
     scanf("%s",s);
     printf("\n\n");
@@ -180,5 +180,5 @@ void main()
 
        // printf("%c",s[i]);
 
-   getch();
+  
 }
